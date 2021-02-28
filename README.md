@@ -1,2 +1,2 @@
 # codestorage
-This repository stores codes for different purposes out there, for easier future reference.
+This repository stores codes solutions for different problems out there, for future review.
